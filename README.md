@@ -7,6 +7,6 @@ compreender sobre o Git/github
  
 
 ## Links Úteis
-[Sintáxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
+* [Sintáxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
 
-[Livros free sobre a materia](https://github.com/free-educa/free-livros#Livros)
+* [Livros free sobre a matéria](https://github.com/free-educa/free-livros#Livros)
