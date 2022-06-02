@@ -1,0 +1,26 @@
+COMANDOS IMPORTANTES
+
+- mkdir      < cria uma pasta >
+- cd           < acessa uma pasta >
+- cd ..        < volta uma pasta > 
+- rmdir      < deleta uma pasta >
+- LS          < lista os arquivos e diretorios destro do git >
+- LS -A     < lista os arquivos ocultos >
+- OPENSSL SHA1 aqui o nome do objeto < amostra o SHA do objeto selecionado >
+- GIT INIT  < Cria uma ásta gerencial do git >
+- GIT CLONE aqui entra o link do repositorio remoto no github que eu criar no local < trago o repositorio remoto para o repositorio local >
+- GIT STATUS
+- GIT ADD .        < adiciona todos os arquivos pendentes de uma so vez >
+- GIT COMMIT  - M "COMENTARIO DO QUE ESTA ENVIANDO"
+- GIT PUSH ORIGIN MAIN ( lembrando que a main aqui selecionado é o local da sua branche no repositorio local) < lanço no meu repositorio local para o repositorio remoto > 
+- GIT REFLOG  < verifica o historico de atualizações das versões >
+- GIT BRANCH  < lista as branchs no momento que tenho >
+- GIT BRANCH aqui coloco o nome da nome branch que estou criando  < cria uma nova branch >
+- GIT CHECKOUT aqui é o nome da branch < comando para selecionar a branch que irei usar>
+
+COMANDOS PARA NAVEGAR ENTRE AS VERSOES DO CÓDIGO
+
+- GIT REFLOG < listo minhas versões >
+- GIT RESET --HARD aqui coloco os primeiros numeros do SHA1 que aparece quando listo pelo comando REFLOG < volta a versao anterior que escolhi >
+
+
